@@ -18,4 +18,7 @@ public interface iTest {
 	
 	//在分支中添加一个方法
 	int test_brank();
+	
+	//张三在11:35中提交了一个新的方法
+	int zhangsan2_1135();
 }
