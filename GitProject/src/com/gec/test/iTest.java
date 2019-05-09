@@ -18,4 +18,7 @@ public interface iTest {
 	
 	//在分支中添加一个方法
 	int test_brank();
+	
+	//李四在11:36提交了新的方法
+	int lisi_1136();
 }
