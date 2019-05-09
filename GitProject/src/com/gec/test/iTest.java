@@ -15,4 +15,7 @@ public interface iTest {
 	
 	//在主方法中添加一个方法
 	int master_Method();
+	
+	//在分支中添加一个方法
+	int test_brank();
 }
