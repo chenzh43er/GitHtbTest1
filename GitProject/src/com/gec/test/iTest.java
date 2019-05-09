@@ -21,4 +21,8 @@ public interface iTest {
 	
 	//李四在11:36提交了新的方法
 	int lisi_1136();
+
+	//张三在11:35中提交了一个新的方法
+	int zhangsan2_1135();
+
 }
